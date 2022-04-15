@@ -1,2 +1,4 @@
-# Desafio-Reposit-rio
-Criar depositório pra fechar o primeiro desafio da DIO
+# Desafio DIO
+Fazer um repositório para concluir o desafio da DIO
+
+Negócio difícil da gota! Hahahaha.
